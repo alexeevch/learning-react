@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    color: #FFFFFF;
-}
-
 #root {
     display: flex;
     justify-content: center;
@@ -24,6 +20,7 @@ body {
     background-color: #4280cd;
     padding: 1rem;
     margin-top: 1rem;
+    color: #FFFFFF;
 }
 
 .post__title {
